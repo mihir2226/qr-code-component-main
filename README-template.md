@@ -21,7 +21,6 @@ It's simple Qr code component by scanning it you redirect to perticular web addr
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ### Desktop version
 ![qr-1](https://user-images.githubusercontent.com/99991521/181359642-e4845a6b-28fa-4539-8586-41cd857eb1ab.PNG)
 
@@ -31,8 +30,8 @@ It's simple Qr code component by scanning it you redirect to perticular web addr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mihir2226/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/mihir2226/qr-code-component-main)
+- Live Site URL: [Live site URL here](https://mihir2226.github.io/qr-code-component-main/)
 
 ## My Process
 
