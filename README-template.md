@@ -31,7 +31,7 @@ It's simple Qr code component by scanning it you redirect to perticular web addr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mihir2226/qr-code-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
@@ -44,13 +44,6 @@ It's simple Qr code component by scanning it you redirect to perticular web addr
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 @media screen and (max-width:376px) {
       
