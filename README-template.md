@@ -52,9 +52,39 @@ To see how you can add code snippets, see below:
 <h1>Some HTML code I'm proud of</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+@media screen and (max-width:376px) {
+      
+      body {
+        padding-top: 95px;
+        max-width: 375px;
+      }
+      
+      img {
+        width: 90%;
+        height: auto;
+        margin: 0;
+        margin-top: 10px;
+      }
+
+      .container {
+        width: auto;
+        margin: auto 30px;
+        padding-top: 5px;
+      }
+
+      .attribution {
+        display: none;
+      }
+    }
+
+    @media screen and (min-width:377px) {
+      h2{
+        font-size: 28px;
+      }
+      p{
+        font-size: 17;
+      }
+    }
 ```
 ```js
 const proudOfThisFunc = () => {
