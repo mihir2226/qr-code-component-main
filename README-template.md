@@ -23,6 +23,7 @@ It's simple Qr code component by scanning it you redirect to perticular web addr
 
 ![](./screenshot.jpg)
 ![qr-1](https://user-images.githubusercontent.com/99991521/181359642-e4845a6b-28fa-4539-8586-41cd857eb1ab.PNG)
+
 ![qr-2](https://user-images.githubusercontent.com/99991521/181359698-02cc2431-cb6c-496b-bcb2-d3518b38d74e.PNG)
 
 
